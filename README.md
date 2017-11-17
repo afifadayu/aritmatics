@@ -60,3 +60,5 @@ Dimana : PE = Potential Energy
 
 Mechanical Energy : <PE> + <KE> = <auto-count Mechanical Energy>
 ```
+
+#### by. SLC Binus University 2016/2017.  
