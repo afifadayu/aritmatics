@@ -31,7 +31,7 @@ Printer   Rp. 850.000   : <input integer>
 ## Show details customer orders, total price of each item, and the total purchase.
 
 > [Total price of each item] = [number of items * price of each item].  
-> [Total purchase] =  [The sum of all the total price of each item]. 
+> [Total purchase] =  [The sum of all the total price of each item].  
 
 ```sh
 Purchase List :
