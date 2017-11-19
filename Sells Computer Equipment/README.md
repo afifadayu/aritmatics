@@ -8,14 +8,14 @@ Input your name : <input here>
 
 ## Show the list price of each item :
 
-> CPU = Rp. 2.000.000,-
-> Monitor = Rp. 2.400.000,-
-> Keyboard = Rp. 200.000,-
-> Mouse = Rp. 150.000,-
-> Printer = Rp. 850.000,-
+> CPU = Rp. 2.000.000,-  
+> Monitor = Rp. 2.400.000,-  
+> Keyboard = Rp. 200.000,-  
+> Mouse = Rp. 150.000,-  
+> Printer = Rp. 850.000,-  
 
 
-* Ask the user to input the number of items to be ordered.
+* Ask the user to input the number of items to be ordered.  
 
 ```sh
 Hai <your input>,
@@ -30,7 +30,7 @@ Printer   Rp. 850.000   : <input integer>
 
 ## Show details customer orders, total price of each item, and the total purchase.
 
-> [Total price of each item] = [number of items * price of each item].
+> [Total price of each item] = [number of items * price of each item].  
 > [Total purchase] =  [The sum of all the total price of each item]. 
 
 ```sh
