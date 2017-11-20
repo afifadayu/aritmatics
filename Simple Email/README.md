@@ -3,7 +3,10 @@
 ## At the beginning of the program, user is asked to input username and password. The username and password must be ”bluejack”.  
 
 ```sh
-Input your name : <input here>
+Login First......
+
+Username: bluejack
+Password: bluejack
 ```
 
 ## Program consists of 4 menus :
@@ -13,43 +16,61 @@ Input your name : <input here>
 > 3. Outbox  
 > 4. Exit  
 
+```sh
+Simple Email Program
+************************
+
+1. New Message
+2. Inbox
+3. Outbox
+4. Exit
+Enter your choice : <input your choice>
+```
+
 * If user chooses New Message (menu ’1’), then :
 
 ```sh
-Hai <your input>,
+Compose
+*******
 
-List Item [0 if you dont want to order] :
-CPU       Rp. 2.000.000 : <input integer>
-Monitor   Rp. 2.400.000 : <input integer>
-Keyboard  Rp. 200.000   : <input integer>
-Mouse     Rp. 150.000   : <input integer>
-Printer   Rp. 850.000   : <input integer>
+From : bluejack
+
+To [1..20]: <write here>
+
+Message [1..50]: <write here>
+
+
+Message sent successfully........
 ```
 
 * If user chooses Inbox (menu ’2’), then :
 
 ```sh
-Purchase List :
-CPU       : <your input> = Rp. <your input*price>
-Monitor   : <your input> = Rp. <your input*price>
-Keyboard  : <your input> = Rp. <your input*price>
-Mouse     : <your input> = Rp. <your input*price>
-Printer   : <your input> = Rp. <your input*price>
+Inbox
+*****
 
-Total     : Rp. <total>
+From : unknown / <what you write on compose>
+
+To : bluejack
+
+Message : hi bluejack, bla bla bla / <what you write on compose>
+
+Press Enter to Continue...
 ```
 
 * If user chooses Outbox (menu ’3’), then :
 
 ```sh
-Purchase List :
-CPU       : <your input> = Rp. <your input*price>
-Monitor   : <your input> = Rp. <your input*price>
-Keyboard  : <your input> = Rp. <your input*price>
-Mouse     : <your input> = Rp. <your input*price>
-Printer   : <your input> = Rp. <your input*price>
+Outbox
+******
 
-Total     : Rp. <total>
+From : bluejack
+
+To : unknown / <what you write on compose>
+
+Message : bla bla bla / <what you write on compose>
+
+Press Enter to Continue...
 ```
 
 * If user chooses Exit (menu ’4’), then program will be end. 
