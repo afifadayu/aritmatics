@@ -1,6 +1,6 @@
 # Soal-soal
 
-## Create simple program by SLC Binus University || Binus University, Binusian2021  
+## Create simple program
 
 ### Sells Computer Equipment
 Topic: Instruction Syntax and Variable  
@@ -13,6 +13,9 @@ Topic: Selection
 
 ### XOX Game
 Topic: Array 1D, 2D
+
+### Black War
+Topic: Function
 
 ### String
 Topic: Built-in Function
