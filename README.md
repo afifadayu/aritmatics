@@ -1,5 +1,14 @@
 # Soal-soal
 
+## MID Exam
+
+### Bytes Converter
+Topic: Arithmatic  
+### Nasi_Ayam_Bakar
+Topic: Looping  
+### Triangle with Character
+Topic: Looping  
+
 ## Practice from SLC
 
 ### Sells Computer Equipment
@@ -14,6 +23,11 @@ Topic: Array 1D, 2D
 Topic: Function
 ### String
 Topic: Built-in Function
+
+## Quiz by exam.binus
+
+### 051217
+Topic: Looping  
 
 ## Quiz by SoCS1
 
